@@ -186,7 +186,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 26889e75df2d38c4e9e75be71a238d3f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.06
+      value: -10.756533
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 26889e75df2d38c4e9e75be71a238d3f, type: 3}
       propertyPath: m_LocalPosition.y
@@ -194,19 +194,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 26889e75df2d38c4e9e75be71a238d3f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 14
+      value: -1.8424815
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 26889e75df2d38c4e9e75be71a238d3f, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.73935854
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 26889e75df2d38c4e9e75be71a238d3f, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 26889e75df2d38c4e9e75be71a238d3f, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: -0.673312
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 26889e75df2d38c4e9e75be71a238d3f, type: 3}
       propertyPath: m_LocalRotation.z
@@ -218,7 +218,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 26889e75df2d38c4e9e75be71a238d3f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: -84.646
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 26889e75df2d38c4e9e75be71a238d3f, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -227,6 +227,18 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 26889e75df2d38c4e9e75be71a238d3f, type: 3}
       propertyPath: m_Name
       value: Blaster
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151388028547126963, guid: 26889e75df2d38c4e9e75be71a238d3f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.19
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151388028547126963, guid: 26889e75df2d38c4e9e75be71a238d3f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.92
+      objectReference: {fileID: 0}
+    - target: {fileID: 1151388028547126963, guid: 26889e75df2d38c4e9e75be71a238d3f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -4.81
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
